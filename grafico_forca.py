@@ -16,6 +16,6 @@ plt.xlabel("Distância r (m)")
 plt.ylabel("Força F (N)")
 plt.grid(True)
 plt.tight_layout()
-plt.savefig("forca_coulomb.png", dpi=150)
+plt.savefig("forca_energi.png", dpi=150)
 print("Gráfico salvo em forca_coulomb.png!")
 
